@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/text-expander-coding-challenge-react/static/css/main.c912c3e5.css",
+    "main.js": "/text-expander-coding-challenge-react/static/js/main.e6b44886.js",
+    "index.html": "/text-expander-coding-challenge-react/index.html",
+    "main.c912c3e5.css.map": "/text-expander-coding-challenge-react/static/css/main.c912c3e5.css.map",
+    "main.e6b44886.js.map": "/text-expander-coding-challenge-react/static/js/main.e6b44886.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c912c3e5.css",
+    "static/js/main.e6b44886.js"
+  ]
+}
